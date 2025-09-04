@@ -74,5 +74,6 @@ A student prepared guide on how to master interviews based on experience
    - Hemapriya
    - Jyotsna
    - Madhesh
+   - Shriram
    - Thanushree
    - Tharani
