@@ -69,7 +69,7 @@ A student prepared guide on how to master interviews based on experience
 
 ### Special Thanks to:
  - Ahmad Baari for organizing this event
- - Harish and Sai Etihas for letting me listen to all the interviews and gain this  knowledge
+ - Harish and Sai Ethihas for letting me listen to all the interviews and gain this  knowledge
  - The other group of panels
    - Hemapriya
    - Jyotsna
