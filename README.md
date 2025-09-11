@@ -68,7 +68,7 @@ A student prepared guide on how to master interviews based on experience
   - Walk through your **solution clearly**.  
 
 ### Special Thanks to:
- - Ahmad Baari for organizing this event
+ - Ahmed Baari for organizing this event
  - Harish and Sai Ethihas for letting me listen to all the interviews and gain this  knowledge
  - The other group of panels
    - Hemapriya
