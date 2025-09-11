@@ -40,7 +40,7 @@ A student prepared guide on how to master interviews based on experience
   - Align your **resume** with the company’s domain.  
   - Example: Finance companies may value **data analytics** over full-stack projects.  
 - Use company research to **ask meaningful questions**.  
-  - ❌ Don’t ask about roles, work ethics, or generic company info.  
+  - Don’t ask about roles, work ethics, or generic company info.  
 - Maintain **two resume formats**:  
   - One for **online submission**.  
   - One for **interview** (highlighting key achievements clearly).  
