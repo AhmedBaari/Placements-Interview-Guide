@@ -77,6 +77,9 @@ A student prepared guide on how to master interviews based on experience(from mo
   - *Explain your DSA approach*.  
   - Walk through your *solution clearly*.
 
+
+  If you came this far and felt like you got some new insights please star ⭐ this repository and if you have more insights feel free to submit a Pull Request.
+
 ### Special Thanks to:
  - Ahmed Baari for organizing this event, taking efforts and initiative to start something like this for students
  - Harish and Sai Ethihas for letting me listen to all the interviews and gain this  knowledge
